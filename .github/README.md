@@ -1,9 +1,10 @@
-━━━━━━━━━━━━━━━━━━━━
-
-<h2 align="center">
+<h1 align="center">
     ──「 sᴏᴍᴇᴅ ✘ ʀᴏʙᴏᴛ 」──
-</h2>
+</h1>
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴏᴍᴇᴅ ✘ ʀᴏʙᴏᴛ](https://t.me/someddarbot)**_
+<p align="center">
+  <img src="https://telegra.ph/file/ba582d379f2586f227d66.png">
+</p>
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -18,10 +19,6 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴏᴍᴇᴅ ✘ �
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
-
-<p align="center">
-  <img src="https://telegra.ph/file/ba582d379f2586f227d66.png">
-</p>
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
