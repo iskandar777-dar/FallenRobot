@@ -1,12 +1,12 @@
 <h1 align="center">
     ──「 sᴏᴍᴇᴅ ✘ ʀᴏʙᴏᴛ 」──
 </h1>
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴏᴍᴇᴅ ✘ ʀᴏʙᴏᴛ](https://t.me/someddarbot)**_
+<h2 align="center"> _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴏᴍᴇᴅ ✘ ʀᴏʙᴏᴛ]**_ 
+</h2>
 <p align="center">
   <img src="https://telegra.ph/file/ba582d379f2586f227d66.png">
-</p>
+</p> <br>
 ━━━━━━━━━━━━━━━━━━━━
-
 <p align="center">
 <a href="https://github.com/AnonymousR1025/FallenRobot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/AnonymousR1025/FallenRobot/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
