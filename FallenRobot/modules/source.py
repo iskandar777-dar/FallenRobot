@@ -34,7 +34,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "• sᴏᴜʀᴄᴇ •",
-                        url="https://github.com/iskandar777-dar/FallenRobot",
+                        url="https://github.com/",
                     ),
                 ]
             ]
